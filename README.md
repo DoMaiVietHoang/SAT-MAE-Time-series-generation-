@@ -1,1 +1,1 @@
-# SAT-MAE-Time-series-generation-
+# SAT MAE Time series generation 
